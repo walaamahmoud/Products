@@ -1,0 +1,16 @@
+#x
+{
+    color: red;
+}
+
+.replacing
+{
+    background-color: rgba(238, 44, 10, 0.5);
+}
+.btn-outline-warning:hover
+{
+    color: #fff;
+}
+input:focus, textarea:focus {
+    box-shadow: 0 0 0 0 transparent !important;
+}
